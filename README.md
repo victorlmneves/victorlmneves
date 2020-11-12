@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitorneves) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorneves-frontend/) [![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorlmneves)
 
 <br/><br/>
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=victorlmneves&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&layout=compact" alt="Victor Neves github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlmneves&theme=dark&layout=compact&langs_count=6" alt="Victor Neves github stats" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=victorlmneves&show_icons=true&hide=stars&count_private=true&theme=dark&layout=compact" alt="Victor Neves github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlmneves&theme=dark&layout=compact&langs_count=8" alt="Victor Neves github stats" />
 
 <!--
 ![Victor Neves github stats](https://github-readme-stats.vercel.app/api?username=victorlmneves&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&layout=compact)
