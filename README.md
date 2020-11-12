@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor Neves 👋
 
 \
-🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using with Vue.js, Vuex, Vue Router, Vue Utils, Jest, Sentry, Github, ZenHub, Yarn, NPM, Netlify, Vercel and Buddy.
+🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Vuex, Vue Router, Vue Utils, Jest, Sentry, Github, ZenHub, Yarn, NPM, Netlify, Vercel and Buddy.
 
 \
 🌱 I’m currently learning Nuxt.js Node.js and Express
