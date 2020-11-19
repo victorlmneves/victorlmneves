@@ -3,7 +3,7 @@
 \
 🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Vuex, Vue Router, Vue Utils, Jest, Sentry, Github, ZenHub, Yarn, NPM, Netlify, Vercel and Buddy.
 
-I also have expeience with jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, Bitbucket, Jira, Phototoshop, Illustrator, Zeplin and CorelDraw
+I also have experience with jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, Bitbucket, Jira, Photoshop, Illustrator, Zeplin, and CorelDraw
 
 \
 🌱 I’m currently learning Nuxt.js Node.js, Express and React
