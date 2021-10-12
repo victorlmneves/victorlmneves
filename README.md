@@ -25,6 +25,8 @@ I also have experience with jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, B
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlmneves&theme=dark&layout=compact)](https://github.com/victorlmneves/github-readme-stats)
 -->
 
+<a href="https://app.daily.dev/victorneves"><img src="https://api.daily.dev/devcards/ea63b0883c6b4c2bba31bb7072494fc8.png?r=h4b" width="400" alt="Victor Neves's Dev Card"/></a>
+
 <!--
 **victorlmneves/victorlmneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
