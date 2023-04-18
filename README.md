@@ -1,17 +1,17 @@
 ### Hi there, I'm Victor Neves 👋
 
-\
-🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Vuex, Vue Router, Vue Utils, Jest, Sentry, Github, ZenHub, Yarn, NPM, Netlify, Vercel and Buddy.
+\fnetli
+🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Pinia, Vite, Vue Utils, Vitest, Histoire, StyleDictionary, Sentry, Github, NPM, Azure, Netlify, Vercel and Buddy.
 
-I also have experience with jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, Bitbucket, Jira, Photoshop, Illustrator, Zeplin, and CorelDraw
+I also have experience with Vuex, Vue Router, Jest, Storybook, jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, ZenHub, Yarn, Bitbucket, Jira, Photoshop, Illustrator, Zeplin, and CorelDraw
 
 \
-🌱 I’m currently learning Nuxt.js Node.js, Express and React
+🌱 I’m currently looking into Nuxt.js, React, Qwik and Astro
 <br/><br/>
 
 #### Technology Stack:
 
-![](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white) ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white) ![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![](https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
+![HTM](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white) ![Vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![Netlify](https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logoColor=white&logo=typescript) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=C21325&logoColor=white&logo=jest) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)  
 <br/><br/>
 
 #### How to reach me:
