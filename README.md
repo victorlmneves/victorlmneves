@@ -1,8 +1,5 @@
 ### Hi there, I'm Victor Neves 👋
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/victorlmneves/victorlmneves)](https://badges.pufler.dev)
-
 \
 🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Vuex, Vue Router, Vue Utils, Jest, Sentry, Github, ZenHub, Yarn, NPM, Netlify, Vercel and Buddy.
 
