@@ -1,12 +1,12 @@
 ### Hi there, I'm Victor Neves 👋
 
 
-🔭 I’m a Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Pinia, Vite, Vue Utils, Vitest, Histoire, StyleDictionary, Sentry, Github, NPM, Azure, Netlify, Vercel and Buddy.
+🔭 I’m a Frontend developer, currently exploring the JAMSTACK world and working/using Vue, Nuxt, Pinia, Vite, Vue Utils, Vitest, Histoire, StyleDictionary, Sentry, Azure, Netlify, Vercel and Buddy.
 
-I also have experience with Vuex, Vue Router, Jest, Storybook, jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, ZenHub, Yarn, Bitbucket, Jira, Photoshop, Illustrator, Zeplin, and CorelDraw
+I also have experience with Vuex, Vue Router, Jest, Storybook, jQuery, PugJs, Handlebars.js, Twig, Gulp, Webpack, ZenHub, Bitbucket, Jira, Photoshop, Illustrator, Zeplin, and CorelDraw
 
 
-🌱 I’m currently looking into Nuxt.js, React, Qwik, and Astro
+🌱 I’m currently looking into React, Qwik, and Astro
 <br/><br/>
 
 #### Technology Stack:
